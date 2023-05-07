@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Mobin Yahyazadehjeloudar"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Candidate at Stanford University"
   location         : "Stanford, California"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=YhAp-fgAAAAJ&hl=en"
   email            :  "yahyazad@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
