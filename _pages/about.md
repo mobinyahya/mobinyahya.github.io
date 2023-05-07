@@ -15,11 +15,13 @@ A data-driven personal website
 
 Publications
 ======
-1. **Optimal lower bounds for universal relation, and for samplers and finding duplicates in streams**
+1. **Optimal lower bounds for universal relation, and for samplers and finding duplicates in streams**  
+**(STOC 2017)** M. Kapralov, J. Nelson, J. Pachocki, Z. Wang, DP. Woodruff, M. Yahyazadeh  
 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 
-
+1. **Decentralized Matching in a Probabilistic Environment**  
+**(EC 2022 )** M. Yahyazadeh, I. Lo, T. Pollner, A. Saberi
+ 
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
