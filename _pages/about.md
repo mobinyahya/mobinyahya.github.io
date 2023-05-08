@@ -29,7 +29,7 @@ Publications
 
 
 Fellowships & Awards
-------
+======
 1. Doing Good with Good OR student paper competition finalist at **INFORMS** 2022
 1. Recepient of **The Heitz Fellowship** Fund 2022
 1. Recepient of **The Jerome Kaseberg Doolan Fellowship** Fund 2021
