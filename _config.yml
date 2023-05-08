@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mobin Yahyazadeh Jeloudar"
 title_separator          : "-"
-name                     : &name "Mobin Yahyazadehjeloudar"
+name                     : &name "Mobin Yahyazadeh jeloudar"
 description              : &description "personal description"
 url                      : https://mobinyahya.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mobin Yahyazadehjeloudar"
+  name             : "Mobin Yahyazadeh jeloudar"
   avatar           : "profile.png"
   bio              : "PhD Candidate at Stanford University"
   location         : "Stanford, California"
