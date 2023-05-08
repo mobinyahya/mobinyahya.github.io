@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/
 
 #  - title: "Teaching"
 #    url: /teaching/
@@ -17,7 +17,7 @@ main:
     
   - title: "CV"
 #    url: /cv/
-    url: 'http://academicpages.github.io/files/paper1.pdf'
+    url: 'http://academicpages.github.io/files/CV.pdf'
     
 #  - title: "Guide"
 #    url: /markdown/
