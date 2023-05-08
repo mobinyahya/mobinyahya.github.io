@@ -9,6 +9,9 @@ redirect_from:
 ---
 
 
+
+About Me
+======
 I am a 5th year Ph.D. student at Stanford University in the [Operations Research](https://or.stanford.edu/) group within the department of Management Science & Engineering, where I am fortunate to be advised by [Irene Lo](https://sites.google.com/view/irene-lo). Before joining Stanford University, I received my B.Sc. in Computer Engineering with a minor in Economics from the [Sharif University of Technology](https://en.sharif.edu/)  
 
 I study welfare and revenue maximization in two-sided platforms, and I am particularly passionate about using matching theory to aid in the provision of equitable educational opportunities. 
@@ -24,7 +27,7 @@ Publications
 
 
 1. **Decentralized Matching in a Probabilistic Environment**  
-**(EC 2021 )** M. Yahyazadeh, I. Lo, T. Pollner, A. Saberi
+**(EC 2021)** M. Yahyazadeh, I. Lo, T. Pollner, A. Saberi
  
 
 
