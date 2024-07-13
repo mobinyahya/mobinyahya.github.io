@@ -12,7 +12,7 @@ redirect_from:
 
 About Me
 ======
-I am a 5th year Ph.D. student at Stanford University in the [Operations Research](https://or.stanford.edu/) group within the department of Management Science & Engineering, where I am fortunate to be advised by [Irene Lo](https://sites.google.com/view/irene-lo). Before joining Stanford University, I received my B.Sc. in Computer Engineering with a minor in Economics from the [Sharif University of Technology](https://en.sharif.edu/)  
+I am a finishing Ph.D. student at Stanford University in the [Operations Research](https://or.stanford.edu/) group within the department of Management Science & Engineering, where I am fortunate to be advised by Irene Lo. Before joining Stanford University, I received my B.Sc. in Computer Engineering with a minor in Economics from the Sharif University of Technology. 
 
 I study welfare and revenue maximization in two-sided platforms, and I am particularly passionate about using matching theory to aid in the provision of equitable educational opportunities. 
 In collaboration with San Francisco Unified School District, 
@@ -22,13 +22,15 @@ we are working on restructuring of the school choice system for elementary stude
 
 Publications
 ======
-1. **Optimal lower bounds for universal relation, and for samplers and finding duplicates in streams**  
+1. [**Optimal lower bounds for universal relation, and for samplers and finding duplicates in streams**](https://ieee-focs.org/FOCS-2017-Papers/3464a475.pdf) 
 **(STOC 2017)** M. Kapralov, J. Nelson, J. Pachocki, Z. Wang, DP. Woodruff, M. Yahyazadeh  
 
 
-1. **Decentralized Matching in a Probabilistic Environment**  
+1. [**Decentralized Matching in a Probabilistic Environment**](https://dl.acm.org/doi/10.1145/3465456.3467652) 
 **(EC 2021)** M. Yahyazadeh, I. Lo, T. Pollner, A. Saberi
- 
+
+1. [**Optimization Meets Participation: Iterative Zone Generation for School Assignment**](/files/Optimization_Meets_Participation__Iterative_Zone_Optimization_for_School_Assignment.pdf)
+**(Working Paper)** M. Yahyazadeh, Katherine Mentzer, I. Lo
 
 
 Fellowships & Awards
