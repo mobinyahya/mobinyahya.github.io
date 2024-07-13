@@ -12,12 +12,11 @@ redirect_from:
 
 About Me
 ======
-I am a finishing Ph.D. student at Stanford University in the [Operations Research](https://or.stanford.edu/) group within the department of Management Science & Engineering, where I am fortunate to be advised by Irene Lo. Before joining Stanford University, I received my B.Sc. in Computer Engineering with a minor in Economics from the Sharif University of Technology. 
+I am a finishing Ph.D. student at Stanford University in the [Operations Research](https://or.stanford.edu/) group within the department of Management Science & Engineering, where I am fortunate to be advised by Irene Lo. Before joining Stanford, I received my B.Sc. in Computer Engineering with a minor in Economics from the Sharif University of Technology. 
 
-I study welfare and revenue maximization in two-sided platforms, and I am particularly passionate about using matching theory to aid in the provision of equitable educational opportunities. 
-In collaboration with San Francisco Unified School District, 
-we are working on restructuring of the school choice system for elementary students in San Francisco,
- where we aim to provide optimal matching that ensures race, gender, and socioeconomic balance in an easily comprehensible system.
+My research focuses on welfare and revenue maximization in stochastic platforms, with a passion for applying theory to promote equitable education.
+I'm collaborating with San Francisco Unified School District to redesign their elementary school choice system,
+balancing accessibility with diversity factors. This work is set to be implemented in the 2026-27 school year.
 
 
 Publications
@@ -30,8 +29,10 @@ Publications
 **(EC 2021)** M. Yahyazadeh, I. Lo, T. Pollner, A. Saberi
 
 1. [**Optimization Meets Participation: Iterative Zone Generation for School Assignment**](/files/Optimization_Meets_Participation__Iterative_Zone_Optimization_for_School_Assignment.pdf)
-**(Working Paper)** M. Yahyazadeh, Katherine Mentzer, I. Lo
+**(Working Paper)** M. Yahyazadeh, K. Mentzer, I. Lo
 
+1. [**Designing School Choice for Diversity in the San Francisco Unified School District**](/_publications/2009-10-01-paper-title-number-1.md)
+**(Working Paper)** I. Ashlagi, I. Lo, K. Mentzer, J. Monardo, H. O’Connell, M. Yahyazadeh
 
 Fellowships & Awards
 ======
