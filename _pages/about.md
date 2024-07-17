@@ -28,7 +28,7 @@ Publications
 1. [**Decentralized Matching in a Probabilistic Environment**](https://dl.acm.org/doi/10.1145/3465456.3467652) 
 **(EC 2021)** M. Yahyazadeh, I. Lo, T. Pollner, A. Saberi
 
-1. [**Optimization Meets Participation: Iterative Zone Generation for School Assignment**](/files/Optimization_Meets_Participation__Iterative_Zone_Optimization_for_School_Assignment.pdf)
+1. [**Optimization Meets Participation: Iterative Zone Generation for School Assignment**](/files/Optimization_Meets_Participation.pdf)
 **(Working Paper)** M. Yahyazadeh, K. Mentzer, I. Lo
 
 1. [**Designing School Choice for Diversity in the San Francisco Unified School District**](/_publications/2009-10-01-paper-title-number-1.md)
